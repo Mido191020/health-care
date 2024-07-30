@@ -1,7 +1,3 @@
-Let's update the README to include the login feature:
-
----
-
 # Health Care Project
 
 ## Description
